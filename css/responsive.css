@@ -1,0 +1,82 @@
+@media only screen and (max-width:768px){
+    .common-button{
+        padding: 10px 16px;
+    }
+    #header{
+        background-image: none;
+        height: auto;
+    }
+    .container{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .logo{
+        width: 70px;
+        margin-top: 27px;
+    }
+    .header-text{
+        margin-top: 100px;
+       
+    }
+    h2{
+        font-size: 25px;
+    
+    }
+    #sideNav{
+        width: 200px;
+        
+    }
+    #sideNav ul li{
+        margin: 35px 14px;
+    }
+    #menuBtn{
+        width: 40px;
+        right: 50px;
+        
+    }
+    .social-icons img{
+        width: 14px;
+        margin: 15px auto;
+        
+    }
+    .about-left-col,
+    .about-right-col{
+        flex-basis: 100%;
+        
+    }
+    .about-text{
+        margin: 50px 50px 0;
+    
+    }
+    .about-text h3{
+        font-size: 18px;
+    }
+    .feature-col{
+        flex-basis: 100%;
+    }
+   
+    .course-col-left,
+    .course-col-right{
+        flex-basis: 100%;
+    }
+    .course-col-left{
+        margin-bottom: 30px;
+    }
+    .contact-left-col,
+    .contact-right-col{
+    flex-basis: 100%;
+    }
+    .contact-left-col{
+        margin-bottom: 30px;
+    }
+    .footer-left-col,
+    .footer-right-col{
+        flex-basis: 100%;
+    }
+    .link-title{
+        flex-basis: 50%;
+        margin-bottom: 30px;
+    }
+    
+}
+    
